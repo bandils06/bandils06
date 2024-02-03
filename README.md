@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bandils06
-- 👀 I’m interested in Startups
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 Full Stack Developer
 - <!--- 💞️ I’m looking to collaborate on --->
 - 📫 How to reach me - hrithikbandil@gmail.com
 
