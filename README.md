@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bandils06
-- 🌱 Full Stack Developer
+- 🌱 Backend focused Full Stack Developer
 - <!--- 💞️ I’m looking to collaborate on --->
 - 📫 How to reach me - hrithikbandil@gmail.com
 
